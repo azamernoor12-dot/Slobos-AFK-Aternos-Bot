@@ -6,16 +6,16 @@
     "type": "offline"
   },
   "server": {
-    "ip": "killifish.aternos.host:49827",
+    "ip": "AzamNoor12.aternos.me",
     "port": 49827,
     "version": "26.1.2",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 1,
+    "x": 0,
     "y": 100,
-    "z": 1
+    "z": 0
   },
   "utils": {
     "auto-auth": {
