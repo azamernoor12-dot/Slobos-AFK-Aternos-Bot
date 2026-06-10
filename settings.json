@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AzamNoor12.aternos.me",
+    "ip": "killifish.aternos.host:49827",
     "port": 49827,
     "version": "26.1.2",
     "try-creative": false
